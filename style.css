@@ -1,0 +1,6 @@
+.die {
+    display: inline-block;
+    font-size: 200px;
+    cursor: pointer;
+    height: 10px;
+}
